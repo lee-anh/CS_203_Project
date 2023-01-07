@@ -1,0 +1,41 @@
+CC=gcc
+CFLAGS=-I.
+DEPS = ArrayList.h BinaryTree.h BTCity.h CityIndex.h CostIndex.h FileReader.h FileWriter.h Indexor.h IntArray.h LinkedList.h NewController.h restaurant.h TimeIndex.h
+OBJS = ArrayList.o BinaryTree.o BTCity.o CityIndex.o CostIndex.o FileReader.o FileWriter.o Indexor.o IntArray.o LinkedList.o NewController.o restaurant.o TimeIndex.o
+
+all: $(OBJ) 
+    $(CC) -g *.o -o p2
+
+clean: 
+    rm ./p2
+    rm *.o
+
+%.o: %.c $(DEPS)
+    $(CC) -c -o $@ $< $(CFLAGS)
+
+
+ArrayList.o: ArrayList.c ArrayList.h restaurant.h
+
+BinaryTree.o: BinaryTree.c BinaryTree.h restaurant.h LinkedList.h ArrayList.h
+
+BTCity.o: BTCity.c BTCity.h restaurant.h LinkedList.h
+
+CityIndex.o: CityIndex.c CityIndex.h IntArray.h restaurant.h LinkedList.h
+
+CostIndex.o: CostIndex.c CostIndex.h LinkedList.h restaurant.h
+
+FileReader.o: FileReader.c FileReader.h restaurant.h BinaryTree.h
+
+FileWriter.o: FileWriter.c FileWriter.h restaurant.h BinaryTree.h LinkedList.h ArrayList.h
+
+Indexor.o: Indexor.c Indexor.h LinkedList.h restaurant.h BinaryTree.h CostIndex.h CityIndex.h TimeIndex.h BTCity.h
+
+IntArray.o: IntArray.c IntArray.h 
+
+LinkedList.o: LinkedList.c LinkedList.h restaurant.h ArrayList.h
+
+NewController.o: NewController.c NewController.h restaurant.h FileReader.h FileWriter.h BinaryTree.h Indexor.h
+
+restaurant.o: restaurant.c restaurant.h 
+
+TimeIndex.o: TimeIndex.c TimeIndex.h IntArray.h restaurant.h LinkedList.h 

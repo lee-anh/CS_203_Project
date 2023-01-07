@@ -1,0 +1,536 @@
+3rd & Ferry Fish Market
+3rd St
+Seafood4.5
+1498
+3rd & Ferry Fish Market
+Easton
+Seafood 4.6
+1492
+3rd Ferry
+Easton
+Sea Food, Bar3.5
+126
+5 Corner's Kitchen
+Marblehead
+French4.8
+201
+85C Bakery Cafe
+San Jose
+bakery, cafe, Taiwanese4.6
+755
+Acasia Thai Restaurant
+Phillipsburg
+Asian, Thai4.7
+2100
+Alexander's Breakfast Bonanza
+Easton
+Breakfast4.5
+945
+Amans
+Easton
+Indian, Spicy, Fine Dining3.5
+256
+Angel's Share
+Mondstadt
+Tavern3.7
+213
+Angelinos
+Philadelphia
+Italian2.5
+36
+Angelo's restaurant
+Easton
+american4.7
+263
+Bertucci
+Pittsburgh
+Italian4.2
+35
+Bob’s
+Portland
+American3.0
+106
+Brady's Brunch
+Bethlehem
+Breakfast4.2
+576
+Brick House Bakery
+Cobleskill
+Bakery4.5
+83
+Burger King
+Easton
+Burgers, fast food4.3
+1200
+Burgers for Breakfast
+Gasp
+fast food, fried, take-out2.3
+66
+Buttermilk Cafe
+Easton
+Breakfast4.1
+35
+Charlie's Hot Dogs
+Nazareth
+American4.9
+136
+Chic-fil-A
+Whitehall
+Fried-Chicken, Fast-Food3.0
+5
+Chipotle
+Chester
+Mexican2.9
+89
+Chipotle
+New York
+Mexican, Fast Food4.0
+302
+Coffee World
+Lviv
+cafe4.6
+3306
+Coyote Cafe
+Santa Fe
+New Mexican, Dinner4.7
+543
+Culver's
+Gurnee
+Burgers, Fast Food4.4
+1203
+Daddy's Place
+Easton
+Mediterranean4.5
+244
+Daddy's Place
+Easton
+Mediterranean4.7
+839
+Daddy's Place
+Easton
+Mediterranean4.7
+838
+Danny's Dumpster
+Bethlehem
+German1.2
+3
+Del Frisco's
+Philadelphia
+Steak4.3
+250
+Domino's
+Easton
+American, Fast Food3.9
+458
+Dominos
+New York
+Pizza, Fast Food3.1
+512
+Don Juan Mex Grill
+Easton
+mexican4.4
+64
+Don Juan Mex Grill
+Easton
+Latin American4.4
+63
+Downtown Dawg
+Easton
+Hot Dogs5.0
+100
+Dynasty
+Hopkinton
+Chinese3.1
+73
+Easton Restaurant
+Easton
+American4.6
+472
+El Limon
+Flourtown
+Mexican4.5
+32
+El Taco Shack
+Cobleskill
+Mexican4.2
+17
+Fat House
+Boryslav
+ukrainian4.4
+1576
+Femboy Hooters
+Easton
+Diner5.0
+69
+Five Guys
+Easton
+Fast Food4.7
+101
+FoodMood
+New York
+American, Dinning4.1
+30
+Fountain Restaurant
+Albany
+Italian, Pizza3.2
+126
+Friends
+Kyiv
+cafe, fast food4.5
+2402
+Gabriellas
+Harrisburg
+Italian5.0
+172
+Gas Lamp
+Lviv
+beer garden4.6
+15281
+Georg's Smorgasbord
+Sandtown
+Family, Special Occasions, German4.0
+2
+Gilbo's
+Firstin
+Cafe, Vegetarian4.3
+53
+Giordano's
+Gurnee
+Pizza4.3
+1453
+Godmothers
+Cape May
+Italian2.0
+15
+Goth iHop
+Springfield
+Breakfast4.6
+420
+Great Wall
+Harrisburg
+Chinese4.3
+47
+GreekGo
+Brentwood
+Greek4.0
+501
+Greg's Italian Cuisine
+Long Island City
+Italian3.9
+1234
+Grillby's
+Snowdin
+Pub3.5
+8
+Happy Potatoes
+Portland
+Vegetarian, Greek4.0
+37
+Henry's place
+Eastwood
+Pizza3.7
+103
+Il Vecchio
+Pacific Grove
+Italian4.7
+836
+Jenny's Kuali
+Malaysian
+Bethlehem4.7
+386
+Koko
+Easton
+Indian, Local3.9
+10
+Kubel's Too
+Long Beach
+American3.5
+84
+Kuma Ani
+Albany
+Sushi4.8
+397
+La Comida Deliciosa
+Ripon
+Mexican4.2
+24
+La Tolteca
+Wilkesbarre
+Mexican2.3
+21
+MILAN'S BISTRO
+Bethlehem
+Mediterranean4.9
+52
+Maxim’s 22
+Easton
+French4.4
+379
+McCarthy's Red Stag Pub
+Bethlehem
+Irish4.6
+1456
+McDonald's
+Easton
+Fried chicken, fast food4.4
+6200
+McDonalds
+Medfield
+American, Fast-Food1.0
+5
+Med Express
+Babylon
+Mediterranean4.6
+205
+Mesa
+Easton
+Mexican4.2
+1105
+Mesa Modern Mexican
+3rd St
+Mexican4.2
+1109
+Mkani
+Nouakchott
+African4.3
+20
+Mod Pizza
+New York
+American, Fast Food3.2
+238
+Mr. P's
+Flourtown
+Pizza2.3
+75
+Olives
+Cleveland
+Italian2.0
+20
+Olympic Feast
+Cushing
+Greek, Mediterranean3.7
+97
+Osaka
+Harrisburg
+Japanese4.8
+500
+Outback
+Philadelphia
+Steak3.5
+20
+Panda Express
+Walpole
+Chinese, Fast-Food5.0
+4
+Panda Express
+Easton
+Chinese2.4
+789
+Panera Bread
+Phillipsburg
+bakery-cafe1.0
+5
+Panicos
+Cape May
+Greek4.8
+60
+Pasta Beach
+New York
+Italian, Pasta4.1
+200
+Plant Place
+Pontiac
+vegetarian4.9
+15
+Popeyes
+Phillisberg
+American, Fast Food4.1
+68
+Portillo's Hot Dogs
+Gurnee
+Fast food, Italian4.2
+4080
+Pub FAF
+Nykarleby
+Pub, Dinner3.7
+236
+Ray's Pizza
+Willesden
+Italian4.4
+59
+Red Leaf
+Wilkesbarre
+Salad4.6
+34
+Red’s
+New Orleans
+French, American5.0
+21
+Sam's Burgers
+East Islip
+Fast Food3.5
+327
+Santos Pizza
+Harrisburg
+Italian4.6
+38
+Sette Luna
+Easton
+Italian4.0
+360
+Shake Shack
+Los Angeles
+Burgers, Fast Food4.8
+256
+ShangWei Szechuan
+Bethlehem
+Chinese4.5
+169
+Sheetz
+Harrisburg
+American3.7
+105
+Shrimp Time
+Los Angeles
+Seafood1.0
+45
+Sit-Eat
+Dnipro
+bistro, pizza3.9
+1001
+Sogo
+Easton
+Japanese4.2
+230
+SomeResau
+Cairo
+Egyptian, to-go4.5
+1
+South Ocean
+Flourtown
+Japanese, Chinese4.8
+50
+Spice Bazaar
+Islamabad
+Desi, Spicy, BBQ4.0
+406
+Steve's Shed
+Paris
+Sketchy0.0
+0
+Stoke
+Easton
+Italian4.3
+858
+Stoke Pizzaria
+Easton
+Pizza, American4.8
+76
+Sumo
+Lahore
+Japanese, Thai, Fine Dining4.5
+567
+Sunnyside
+Ashland
+American, breakfast2.8
+23
+Sushi Stop
+Miami
+Sushi, Japanese3.3
+58
+Table
+Riyadh
+Middle Eastern, Spicy4.2
+10
+Taco Bell
+Walpole
+Mexican, Fast-Food2.0
+3
+Taco Bell
+Phillisberg
+Mexican, Fast Food2.7
+1004
+Tacos el Durango Mexican Grill
+Gurnee
+Mexican4.6
+339
+Takumi Sushi
+Easton
+Sushi4.8
+440
+Tandoor Grill
+Easton
+Indian4.5
+181
+The Beltway Diner
+Hazleton
+Diner3.1
+7
+The Chicken or the Egg
+Beach Haven
+Breakfast4.5
+995
+The Fudge Facade
+Pheonix
+Dessert2.1
+3252
+The Garlic Knot
+Freeland
+Italian3.6
+48
+The Most Expensive Galician Restaurant
+Lviv
+cafe4.6
+1879
+The Pantry
+Santa Fe
+New Mexican, Breakfast4.6
+2281
+The Sewer
+Paris
+Rat-Owned, Anyone Can Cook4.9
+333
+The Snuggly Duckling
+Corona
+Pub4.0
+12
+The Sugar Bowl
+Elwood City
+Dessert Parlor4.1
+42
+Three Cod Tavern
+Marblehead
+Seafood4.5
+264
+Tierra De fuego
+Northampton St
+Columbian4.0
+179
+Tiger Sugar
+Cambridge
+cafe, Taiwanese, bubble tea4.2
+184
+Tre Scalini Ristorante
+Bethlehem
+Italian4.7
+149
+Trolley Stop
+Easton
+Comfort, Diner4.0
+13
+Untouchable Nutrition
+Albany
+Juice Bar2.4
+5
+Vietnamese Noodle House
+Easton
+Vietnamese4.4
+32
+Vietnamese Noodle House
+Easton
+Vietnames, Noodle4.4
+32
+WcDonalds
+Tokyo
+Fast Food5.0
+19
